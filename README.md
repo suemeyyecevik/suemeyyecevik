@@ -21,11 +21,13 @@ Hello, I'm Sümeyye Çevik! 👋
 
 ### 🔥 My Activity Graph
 
-![GitHub Activity Graph] (https://github-readme-activity-graph.cyclic.app/graph?username=suemeyyecevik&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=suemeyyecevik&theme=radical)
+
 
 ## 🐍 GitHub Snake Oyunu
 
 ![snake gif](https://github.com/suemeyyecevik/suemeyyecevik/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
