@@ -24,10 +24,10 @@ Hello, I'm Sümeyye Çevik! 👋
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suemeyyecevik&theme=radical)
 
 
-
 ## 🐍 GitHub Snake Oyunu
 
-![snake gif](https://github.com/suemeyyecevik/suemeyyecevik/blob/main/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/suemeyyecevik/suemeyyecevik/blob/main/github-contribution-grid-snake.svg)
+
 
 
 
