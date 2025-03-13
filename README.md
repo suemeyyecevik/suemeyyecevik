@@ -15,16 +15,17 @@ Hello, I'm Sümeyye Çevik! 👋
 ![DevOps](https://img.shields.io/badge/DevOps-%230077B5.svg?style=for-the-badge&logo=devops&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 My GitHub Statistics
+## 📊 My GitHub Statistics
 
-![github_stats] (https://github-readme-stats.vercel.app/api?username=suemeyyecevik&show_icons=true&theme=radical)
-![top_languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=suemeyyecevik&layout=compact&theme=radical)
-
+![Sümeyye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suemeyyecevik&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ### 🔥 My Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=suemeyyecevik&theme=radical)
+![GitHub Activity Graph] (https://github-readme-activity-graph.cyclic.app/graph?username=suemeyyecevik&theme=radical)
 
-### 🐍 GitHub Snake Game  
-This animation shows your GitHub contributions in the form of a moving snake.  
+## 🐍 GitHub Snake Oyunu
+
 ![snake gif](https://github.com/suemeyyecevik/suemeyyecevik/blob/output/github-contribution-grid-snake.svg)
+
+
+
