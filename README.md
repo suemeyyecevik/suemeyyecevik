@@ -21,7 +21,8 @@ Hello, I'm Sümeyye Çevik! 👋
 
 ### 🔥 My Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=suemeyyecevik&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suemeyyecevik&theme=radical)
+
 
 
 ## 🐍 GitHub Snake Oyunu
