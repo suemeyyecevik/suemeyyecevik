@@ -25,8 +25,8 @@ Hello, I'm Sümeyye Çevik! 👋
 
 
 ## 🐍 GitHub Snake Oyunu
-
 ![snake gif](https://github.com/suemeyyecevik/suemeyyecevik/blob/main/github-contribution-grid-snake.svg)
+
 
 
 
