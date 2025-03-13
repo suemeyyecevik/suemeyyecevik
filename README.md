@@ -23,11 +23,13 @@ Hello, I'm Sümeyye Çevik! 👋
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suemeyyecevik&theme=radical)
 
+### 💻 Most Used Languages  
 
-## 🐍 GitHub Snake Oyunu
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suemeyyecevik&layout=compact&theme=radical)
 
-![snake gif](https://github-readme-activity-graph.cyclic.app/graph?username=suemeyyecevik&theme=radical)
 
+### 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=suemeyyecevik&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 
