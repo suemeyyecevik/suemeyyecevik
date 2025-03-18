@@ -1,3 +1,11 @@
+<h1 align="center">👋 Merhaba, ben Sümeyye Çevik!</h1>  
+<h3 align="center">AWS Solutions Architect | Azure | DevOps Engineer | Cloud Enthusiast ☁️</h3>  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sümeyye-çevik"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sumeyye@example.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"></a>
+</p>
+
 Hello, I'm Sümeyye Çevik! 👋
 
 🚀 **I work in the fields of AWS, Azure, and DevOps.**  
