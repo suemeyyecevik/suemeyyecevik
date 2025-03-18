@@ -6,7 +6,6 @@
   <a href="mailto:sumeyye@example.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"></a>
 </p>
 
-Hello, I'm Sümeyye Çevik! 👋
 
 🚀 **I work in the fields of AWS, Azure, and DevOps.**  
 💻 **AWS Solutions Architect & DevOps Engineer**
@@ -17,9 +16,14 @@ Hello, I'm Sümeyye Çevik! 👋
 📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/suemeyyecevik/) | [GitHub](https://github.com/suemeyyecevik) | [Medium](https://medium.com/@suemeyyecevik)  
 
 
-### 🚀 Technologies & Tools  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+#### **🌩️ Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![DevOps](https://img.shields.io/badge/DevOps-%230077B5.svg?style=for-the-badge&logo=devops&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
