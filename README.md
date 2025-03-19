@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Sümeyye Çevik!</h1>  
+<h1 align="center">👋 Hallo, I'm Sümeyye Çevik!</h1>  
 <h3 align="center">AWS Solutions Architect | Azure | DevOps Engineer | Cloud Enthusiast ☁️</h3>  
 
 <p align="center">
